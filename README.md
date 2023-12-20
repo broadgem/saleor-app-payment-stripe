@@ -22,4 +22,4 @@ The Saleor App Payment Stripe is designed to simplify the payment process for bo
 
 In addition to processing payments, the Saleor App Payment Stripe provides merchants with tools for managing refunds and chargebacks. Overall, the Saleor App Payment Stripe is a powerful tool for merchants looking to streamline their payment processes and offer their customers a seamless and secure online shopping experience.
 
-Test Change
+Test Change 2
